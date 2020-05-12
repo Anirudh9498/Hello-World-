@@ -5,6 +5,3 @@ Learning Github
 C#
 Asp.net
 mysql
-devops
-azure devops
-GITHUB
